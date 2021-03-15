@@ -33,7 +33,5 @@ Sequelize
 
 ## Links
 
-```
 Walkthrough Video: https://drive.google.com/file/d/12BcIE5cwlAOxtpk5ixSvIh9_DgtSB2N9/view?usp=sharing
 Github: https://github.com/JoyUmoekpo/E-Commerce-Back-End
-```
